@@ -4,7 +4,7 @@ qxwrite目录为解锁软件脚本来源于
 
 yqc007/QuantumultX:master
 
-rewrite目录也是解锁软件脚本来源于
+rewrite目录是根据qxwrite目录制作的解锁软件订阅来源于
 
 Marol62926/Quantumultx:main
 
