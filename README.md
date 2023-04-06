@@ -4,6 +4,14 @@ qxwrite目录为解锁软件脚本来源于
 
 yqc007/QuantumultX:master
 
+rewrite目录也是解锁软件脚本来源于
+
+Marol62926/Quantumultx:main
+
+ALLinone订阅链接
+
+https://raw.githubusercontent.com/happyyang5/QX/main/rewrite/Marol/AllinOne/AllinOne.conf
+
 ICON目录为图标目录
 
 Orz-3icon来源于Orz-3/mini
