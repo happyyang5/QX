@@ -7,7 +7,7 @@
 
 [rewrite_local]
 
-https://apph5.qichacha.com/api/(enterpriseCenter|basic)/(getUserInfoWithSass/getUserInfoForUserCenter|getUserInfo) url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/dayone.js
+https://apph5.qichacha.com/api/(enterpriseCenter|basic)/(getUserInfoWithSass|getUserInfoForUserCenter|getUserInfo) url script-response-body https://raw.githubusercontent.com/happyyang5/QX/main/rewrite/private/qcc.js
 
 [mitm] 
 
