@@ -1,0 +1,105 @@
+https://gist.githubusercontent.com/Sliverkiss/1589f69e675019b0b685a57a89de9ea5/raw/quarkV2.js
+https://gist.githubusercontent.com/Sliverkiss/2694a665b4e52d8788c18394201ff3eb/raw/quarkcloud.js
+https://raw.githubusercontent.com/leiyiyan/resource/main/script/ningji/ningji.js
+https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/aeon_sign.js
+https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/wechat_pay_coupon.js
+https://raw.githubusercontent.com/Crazy-Z7/Task/main/Tuhyche.js
+https://gist.githubusercontent.com/Sliverkiss/865c82e42a5730bb696f6700ebb94cee/raw/mxbc.js
+https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js
+https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/95598/95598.js
+https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jhsh_checkIn.js
+https://raw.githubusercontent.com/wf021325/qx/master/task/ampDache.js
+https://raw.githubusercontent.com/shufflewzc/faker/main/Kafx.js
+https://raw.githubusercontent.com/shufflewzc/faker/main/Aisisign.js
+https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jhsh_checkIn.js
+https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js
+https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/energybill/bill.js
+https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js
+https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js
+https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js
+https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/xmlySign.js
+https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js
+https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/glados.js
+https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Sub-Store/Operator.js
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js
+https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js
+https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js
+https://cdn.jsdelivr.net/gh/Herman-Xu/BlueSkyClouds-My-Actions@master/function/q_video/q_video.js
+https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js
+https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js
+https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js
+https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-task.js
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-task.js
+
+
+
+[task_local]
+0 0 1 1 * 115pan.js, tag=115, enabled=false
+
+10 9 * * * 115.js, tag=115网盘, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Tyyp.png, enabled=true
+10 8,18 * * * https://gist.githubusercontent.com/Sliverkiss/1589f69e675019b0b685a57a89de9ea5/raw/quarkV2.js, tag=夸克网盘V2, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Quark.png, enabled=true
+10 0 * * * https://gist.githubusercontent.com/Sliverkiss/2694a665b4e52d8788c18394201ff3eb/raw/quarkcloud.js, tag=夸克网盘签到, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Quark.png, enabled=false
+
+30 9 * * * https://raw.githubusercontent.com/leiyiyan/resource/main/script/ningji/ningji.js, tag=柠季, img-url=https://raw.githubusercontent.com/leiyiyan/resource/main/icons/ningji.png, enabled=true
+20 8 * * * https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/aeon_sign.js, tag=永旺 Aeon, img-url=https://raw.githubusercontent.com/FoKit/Scripts/main/images/aeon.png, enabled=false
+
+15 7 * * * https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/wechat_pay_coupon.js, tag=微信支付有优惠, enabled=true
+30 9 * * * https://raw.githubusercontent.com/Crazy-Z7/Task/main/Tuhyche.js, tag=途虎养车, enabled=true
+11 7/19 * * * https://gist.githubusercontent.com/Sliverkiss/865c82e42a5730bb696f6700ebb94cee/raw/mxbc.js, tag=蜜雪冰城, enabled=false
+0 0 * * * https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js, tag=Sub-Store Sync, img-url=https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png, enabled=true
+
+5 21 * * * https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/95598/95598.js, tag=网上国网查询, img-url=https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/d8/8a/83d88a92-5a4d-7a2f-118c-80d795e7a9f6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/144x144.png, enabled=false
+
+40 8 * * * https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jhsh_checkIn.js, tag=建行生活, img-url=https://raw.githubusercontent.com/shufflewzc/faker/main/Image/IMG_0910.jpeg, enabled=true
+1 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/ampDache.js, tag=高德地图打车签到, enabled=false
+30 8 * * * https://raw.githubusercontent.com/shufflewzc/faker/main/Kafx.js, tag=卡夫享积分签到, img-url=https://raw.githubusercontent.com/shufflewzc/faker/main/Image/IMG_0909.jpeg, enabled=false
+40 9 * * * https://raw.githubusercontent.com/shufflewzc/faker/main/Aisisign.js, tag=爱思助手全能版签到, img-url=https://raw.githubusercontent.com/shufflewzc/faker/main/Image/IMG_0917.jpeg, enabled=true
+9 7,19 * * * glados.js, tag=Glados, enabled=false
+
+17 7 * * * https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jhsh_checkIn.js, tag=建行生活, enabled=false
+9 7 * * * qqvideosign.js, tag=腾讯视频自签, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png, enabled=false
+6 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png, enabled=false
+5 0 * * * https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/check_in/energybill/bill.js, tag=国网电费, enabled=false
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js, tag=策略流量查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Download.png, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js, tag=GeoIP查询, img-url=location.fill.viewfinder.system, enabled=true
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体解锁检测, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/GMedia.png, enabled=true
+5 7,21 * * * txsp.js, tag=腾讯视频签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png, enabled=false
+20 1,20 * * * https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/xmlySign.js, tag=喜马拉雅修复, enabled=false
+1 0,21 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰速运, enabled=false
+
+1 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/glados.js, tag=GLADOS, enabled=false
+5 0,10 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js, tag=机场签到COOKIE, enabled=false
+15 8,10,12,18,20 * * * https://raw.githubusercontent.com/LinYuanovo/scripts/main/dygy.js, tag=抖音果园, enabled=false
+0 0 1 1 * https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Sub-Store/Operator.js, tag=sub_store, img-url=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/icon/Appstore.png, enabled=true
+event-interaction https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js, tag=Env代理链路检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png, enabled=true
+
+
+
+
+0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js, tag=机场流量, img-url=https://qxnav.com/rules/QuantumultX/img/airport.png, enabled=false
+16 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到（配合boxjs使用）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=false
+
+
+
+0 0 1 1 * https://cdn.jsdelivr.net/gh/Herman-Xu/BlueSkyClouds-My-Actions@master/function/q_video/q_video.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png, enabled=false
+0 0 1 1 * dyjs_last.js, tag=抖音, img-url=https://qxnav.com/rules/QuantumultX/img/dyjsb.png, enabled=false
+30 7 * * * ahyd.js, tag=安徽移动, enabled=false
+10 7,11,18,20 * * * caiyun.js, tag=彩云天气, img-url=https://qxnav.com/rules/QuantumultX/img/caiyun.png, enabled=false
+6 0 * * * videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png, enabled=false
+7 * * * * wbtc.js, tag=58同城, enabled=false
+5 12,18 * * * elmchd.js, tag=饿了吗, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png, enabled=false
+20 0 * * * ttl.js, tag=太太乐, enabled=false
+5 * * * * bhxcy.js, tag=渤海宣传员, enabled=false
+0 10 * * * translator.js, tag=谷歌中英互译, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/translate.png, enabled=false
+# 微信小程序 - 喜马拉雅 - 我的： 签到 " 获取 Cookie
+
+
+# 签到脚本
+0 9/21 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://qxnav.com/rules/QuantumultX/img/52pj.png, enabled=false
+1 0/20 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js, tag=百度签到, img-url=https://qxnav.com/rules/QuantumultX/img/baidu.png, enabled=false
+52 59 9 * * 0,5,6 https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay_voucher.js, tag=提醒支付宝抢消费券, img-url=https://qxnav.com/rules/QuantumultX/img/Alipay.png, enabled=false
+1 0,21 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=什么值得买, img-url=https://qxnav.com/rules/QuantumultX/img/smzdm.png, enabled=false
+0 9,20 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://qxnav.com/rules/QuantumultX/img/iQIYI.png, enabled=false
+0 0 1 1 * https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-task.js, tag=Sample, img-url=https://raw.githubusercontent.com/crossutility/Quantumult-X/master/quantumult-x.png, enabled=true
