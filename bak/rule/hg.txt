@@ -1,0 +1,18 @@
+# 红果核心广告拦截（必加）
+host-suffix,hongguoapp.com,REJECT
+host-suffix,hongguosdk.com,REJECT
+host-suffix,pangolin-sdk-toutiao.com,REJECT
+host-suffix,pglstatp-toutiao.com,REJECT
+host-keyword,ad-union-sdk,REJECT
+host-keyword,be-pack,REJECT
+host-keyword,hongguo.ad,REJECT
+# 字节系广告兜底（红果隶属字节）
+host-suffix,ad.pangle.cn,REJECT
+host-suffix,ad.pangolin.cn,REJECT
+host-suffix,zijieapi.com,REJECT
+host-keyword,tnc.snssdk,REJECT
+# 红果内容直连（避免加载异常）
+host-suffix,hongguo.com,DIRECT
+host-suffix,hongguo.douyin.com,DIRECT
+host-suffix,byteimg.com,DIRECT
+host-suffix,pstatp.com,DIRECT
